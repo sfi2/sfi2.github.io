@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: *
+Disallow: /private/
+Disallow: /secret/
+Disallow: /admin/
+Disallow: /restricted/
